@@ -4,7 +4,6 @@ import com.alibaba.fastjson.JSONObject;
 
 import com.alibaba.hologres.com.google.common.cache.Cache;
 import com.alibaba.hologres.com.google.common.cache.CacheBuilder;
-import com.profanity_filtering.util.HbaseUtils;
 import org.apache.flink.configuration.Configuration;
 import org.apache.flink.streaming.api.functions.async.ResultFuture;
 import org.apache.flink.streaming.api.functions.async.RichAsyncFunction;
@@ -24,8 +23,8 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * @Package com.retailersv1.func.AsyncHbaseDimBaseDicFunc
- * @Author zhou.han
- * @Date 2025/3/15 20:47
+ * @Author jiahui
+ * @Date 2025/5/2 09:00
  * @description: Async DimBaseDic
  */
 public class AsyncHbaseDimBaseDicFunc extends RichAsyncFunction<JSONObject, JSONObject> {

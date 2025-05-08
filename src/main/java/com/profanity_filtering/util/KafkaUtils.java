@@ -22,7 +22,8 @@ import java.util.Properties;
 /**
  * time: 2021/8/11 10:20 className: KafkaUtils.java
  *
- * @author han.zhou
+ * @Author jiahui
+ * @Date 2025/5/2 09:00
  * @version 1.0.0
  */
 public final class KafkaUtils {

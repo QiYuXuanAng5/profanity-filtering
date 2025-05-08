@@ -4,8 +4,8 @@ import java.util.List;
 import java.util.regex.Pattern;
 
 /**
- * @author weikaijun
- * @date 2022-06-07 13:28
+ * @Author jiahui
+ * @Date 2025/5/2 09:00
  **/
 public class StringsUtils {
     private StringsUtils() {

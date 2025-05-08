@@ -9,8 +9,8 @@ import java.util.List;
 
 /**
  * @Package com.stream.common.utils.JdbcUtils
- * @Author zhou.han
- * @Date 2024/12/20 08:51
+ * @Author jiahui
+ * @Date 2025/5/2 09:00
  * @description: MySQL Utils
  */
 public class JdbcUtils {

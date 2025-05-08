@@ -8,8 +8,8 @@ import java.util.ArrayList;
 
 /**
  * @Package com.stream.common.utils.FileUtils
- * @Author zhou.han
- * @Date 2024/11/20 10:48
+ * @Author jiahui
+ * @Date 2025/5/2 09:00
  * @description: File Utils
  */
 public class FileUtils {

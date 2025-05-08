@@ -11,6 +11,11 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: com.github.houbb:sensitive-word:0.9.0" level="project" />
+    <orderEntry type="library" name="Maven: com.github.houbb:heaven:0.2.7" level="project" />
+    <orderEntry type="library" name="Maven: org.apiguardian:apiguardian-api:1.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.github.houbb:opencc4j:1.8.1" level="project" />
+    <orderEntry type="library" name="Maven: com.github.houbb:nlp-common:0.0.5" level="project" />
     <orderEntry type="library" name="Maven: org.apache.flink:flink-hbase_2.11:1.10.3" level="project" />
     <orderEntry type="library" name="Maven: org.apache.hbase:hbase-server:1.4.3" level="project" />
     <orderEntry type="library" name="Maven: org.apache.hbase:hbase-common:1.4.3" level="project" />

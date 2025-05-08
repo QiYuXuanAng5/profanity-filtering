@@ -8,8 +8,8 @@ import java.time.Duration;
 import java.util.List;
 
 /**
- * @author weikaijun
- * @date 2022-07-05 15:34
+ * @Author jiahui
+ * @Date 2025/5/2 09:00
  **/
 @Slf4j
 public class WaterMarkUtils {

@@ -10,7 +10,8 @@ import java.util.Date;
  * 日期工具类
  * time: 2021/9/9 13:37 className: DateTimeUtils.java
  *
- * @author han.zhou
+ * @Author jiahui
+ * @Date 2025/5/2 09:00
  * @version 1.0.0
  */
 public final class DateTimeUtils {
@@ -25,6 +26,7 @@ public final class DateTimeUtils {
         SimpleDateFormat formatter = new SimpleDateFormat(format);
         return formatter.format(date);
     }
+
     public static String tsToDate(Long ts) {
         Date dt = new Date(ts);
         LocalDateTime localDateTime = LocalDateTime.ofInstant(dt.toInstant(), ZoneId.systemDefault());
